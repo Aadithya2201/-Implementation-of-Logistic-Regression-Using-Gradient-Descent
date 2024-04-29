@@ -87,6 +87,8 @@ def gradient_descent (theta, X, y, alpha, num_iterations):
         theta -= alpha * gradient
     return theta
 theta =  gradient_descent(theta, X, y, alpha=0.01, num_iterations=1000)
+```
+```
 def predict(theta, X): 
     h = sigmoid(X.dot(theta))
     y_pred = np.where(h >= 0.5, 1, 0)
