@@ -8,33 +8,35 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+step 1.Start
 
-1.Import Libraries: Import the necessary libraries - pandas, numpy, and matplotlib.pyplot.
+step 2.Import Libraries: Import the necessary libraries - pandas, numpy, and matplotlib.pyplot.
 
-2.Load Dataset: Load the dataset using pd.read_csv.
+step 3.Load Dataset: Load the dataset using pd.read_csv.
 
-3.Remove irrelevant columns (sl_no, salary).
+step 4.Remove irrelevant columns (sl_no, salary).
 
-4.Convert categorical variables to numerical using cat.codes.
+step 5.Convert categorical variables to numerical using cat.codes.
 
-5.Separate features (X) and target variable (Y).
+step 6.Separate features (X) and target variable (Y).
 
-6.Define Sigmoid Function: Define the sigmoid function.
+step 7.Define Sigmoid Function: Define the sigmoid function.
 
-7.Define Loss Function: Define the loss function for logistic regression.
+step 8.Define Loss Function: Define the loss function for logistic regression.
 
-8.Define Gradient Descent Function: Implement the gradient descent algorithm to optimize the parameters.
+step 9.Define Gradient Descent Function: Implement the gradient descent algorithm to optimize the parameters.
 
-9.Training Model: Initialize theta with random values, then perform gradient descent to minimize the loss and obtain the optimal parameters.
+step 10.Training Model: Initialize theta with random values, then perform gradient descent to minimize the loss and obtain the optimal parameters.
 
-10.Define Prediction Function: Implement a function to predict the output based on the learned parameters.
+step 11.Define Prediction Function: Implement a function to predict the output based on the learned parameters.
 
-11.Evaluate Accuracy: Calculate the accuracy of the model on the training data.
+step 12.Evaluate Accuracy: Calculate the accuracy of the model on the training data.
 
-12.Predict placement status for a new student with given feature values (xnew).
+step 13.Predict placement status for a new student with given feature values (xnew).
 
-13.Print Results: Print the predictions and the actual values (Y) for comparison.
+step 14.Print Results: Print the predictions and the actual values (Y) for comparison.
 
+step 15.Stop.
 ## Program:
 ```
 /*
