@@ -106,26 +106,19 @@ y_prednew = predict(theta, xnew)
 print(y_prednew)
 */
 ```
-
 ## Output:
 ### dataset:
 ![Screenshot 2024-04-22 143407](https://github.com/Aadithya2201/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145917810/b759be5c-9ff7-44ab-ba18-0f95fef59a0a)
-
 ### dataset.dtypes:
 ![Screenshot 2024-04-22 143421](https://github.com/Aadithya2201/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145917810/0ac77d57-1afe-49a7-aa8d-4414f90e9e92)
-
 ### dataset:
 ![Screenshot 2024-04-22 143450](https://github.com/Aadithya2201/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145917810/730e6d8a-e533-43b2-9d7a-71428c7ab09a)
-
 ### Y:
 ![Screenshot 2024-04-22 143458](https://github.com/Aadithya2201/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145917810/c5a2dc74-8f83-46f5-8c99-ca4fc9fba3c3)
-
 ### y_pred:
 ![Screenshot 2024-04-22 143507](https://github.com/Aadithya2201/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145917810/6dce3b27-0063-401d-b7e4-5f8dfb501496)
-
 ### Y:
 ![Screenshot 2024-04-22 143511](https://github.com/Aadithya2201/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145917810/cbc84213-853e-4afc-b9f9-20a48dcd8903)
-
 ### y_prednew:
 ![Screenshot 2024-04-22 143518](https://github.com/Aadithya2201/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145917810/fcfeba87-3f2f-4d1d-b625-b63326f7da16)
 
